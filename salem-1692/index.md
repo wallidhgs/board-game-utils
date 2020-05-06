@@ -4,7 +4,7 @@
 
 ### Preparación inicial
 
-#### Cartas de juicio (*tryal*)
+#### Cartas de juicio (*tryal*) 
 
 - Separe las cartas de juicio según el número de jugadores:
 
@@ -31,15 +31,15 @@
 
 #### Cartas Salem
 
-- Separa la carta de la **Noche** (Color Negro)
-- separa la carta de **Conspiración** (Color Negro)
-- Separa la carta del **Gato negro** (Color Azul)
+- Separa la carta de la ![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg) **Noche**
+- separa la carta de ![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg) **Conspiración**
+- Separa la carta del ![azul](https://user-images.githubusercontent.com/41655764/81172586-1e88ba00-8f64-11ea-8ed3-30abd04ef556.jpg) **Gato negro**
 - Revuelve y reparte **3** cartas a cada jugador (boca abajo)
-- Agrega la carta de **Conspiración** a las cartas restantes y revuelve nuevamente
-- Agrega la carta de la **Noche** hasta abajo y coloca boca abajo en el centro de la mesa
-- Coloca el **Gato Negro** boca arriba perpendicular al resto del mazo (para ser tomado más fácil)
+- Agrega la carta de ![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg) **Conspiración** a las cartas restantes y revuelve nuevamente
+- Agrega la carta de la ![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg) **Noche** hasta abajo y coloca boca abajo en el centro de la mesa
+- Coloca el ![azul](https://user-images.githubusercontent.com/41655764/81172586-1e88ba00-8f64-11ea-8ed3-30abd04ef556.jpg) **Gato Negro** boca arriba perpendicular al resto del mazo (para ser tomado más fácil)
 
-#### Token de martillo
+#### Token de martillo ![gavel_token](https://user-images.githubusercontent.com/41655764/81173697-1af63280-8f66-11ea-8853-f837036a9363.jpg)
 
 - Colocalo en el centro de la mesa, accesible para todos
 
@@ -102,7 +102,7 @@ El jugador muere en las siguientes situaciones:
 
 ## Tipos de Cartas
 
-### Cartas Negras
+### Cartas Negras ![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg)
 
 Cuando se obtiene una carta negra se debe jugar inmediatamente
 
