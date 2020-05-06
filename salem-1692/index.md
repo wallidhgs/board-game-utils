@@ -1,10 +1,12 @@
 # Salem 1692
 
+![salem_1692](https://user-images.githubusercontent.com/41655764/81174543-ab814280-8f67-11ea-9cad-d654453b62aa.JPG)
+
 ## Instrucciones básicas
 
 ### Preparación inicial
 
-#### Cartas de juicio (*tryal*) 
+#### Cartas de juicio (*tryal*)
 
 - Separe las cartas de juicio según el número de jugadores:
 
