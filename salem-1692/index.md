@@ -191,12 +191,14 @@ En la noche las brujas intentarán asesinar un personaje (Puede ser Aldeano o Br
 
 ### Cartas de Juicio (Tryal)
 
-|Inglés|Español|
-|-|-|
-|Witch|Bruja|
-|Not a Witch|No Bruja|
+|Color|Inglés|Español|
+|-|-|-|
+|![dorado](https://user-images.githubusercontent.com/41655764/81172582-1df02380-8f64-11ea-8919-3cd7dc47500e.jpg)|Witch|Bruja|
+|![amarillo](https://user-images.githubusercontent.com/41655764/81172579-1df02380-8f64-11ea-831e-eaab0ad5da6a.jpg)|Not a Witch|No Bruja|
 
 ### Personajes y habilidades
+
+Todas las cartas de personaje son de color al frente: ![dorado](https://user-images.githubusercontent.com/41655764/81172582-1df02380-8f64-11ea-8919-3cd7dc47500e.jpg)
 
 |Inglés|Instrucción|
 |-|-|
@@ -220,18 +222,18 @@ En la noche las brujas intentarán asesinar un personaje (Puede ser Aldeano o Br
 
 |Color|Inglés|Español|Instrucción|
 |-|-|-|-|
-|Negro|Conspiracy|Conspiración|Juéguese inmediatamente|
-|Negro|Night|Noche|Juega Inmediatamente|
-|Azul|Piety|Piedad|No se pueden jugar cartas rojas en el jugador con Piedad|
-|Azul|Matchmaker|Casamentero|Cuando 2 Jugadores tienen el casamentero en frente de ellos, si uno de ellos muere, el otro también.|
-|Azul|Asylum|Asilo|El jugador que le sea dado Asilo no puede ser asesinado durante la Noche|
-|Azul|Black Cat|Gato Negro|Cuando un jugador saque una Conspiración, revela una carta de Juicio del jugador al que pertenezca el gato negro|
-|Verde|Robbery|Robo|Toma todas las cartas de la mano de otro jugador y dáselas a otro jugador|
-|Verde|Curse|Maldición|Descarta una carta azul que esté en frente de otro jugador|
-|Verde|Stocks|Abastos|El jugador que tenga Abastos saltará su siguiente turno|
-|Verde|Arson|Incendio|Descarta todas las cartas de la mano de cualquier otro jugador|
-|Verde|Alibi|Coartada|Descarta hasta 3 acusaciones que se encuentren en frente de otro jugador|
-|Verde|Scapegoat|Chivo Expiatorio|Toma todas las cartas en frente de un jugador y colócalas en frente de otro jugador|
-|Rojo|Witness|Testigo|7 acusaciones|
-|Rojo|Evidence|Evidencia|3 Acusaciones|
-|Rojo|Accusation|Acusación|1 Acusación|
+|![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg)|Conspiracy|Conspiración|Juéguese inmediatamente|
+|![black](https://user-images.githubusercontent.com/41655764/81172581-1df02380-8f64-11ea-80e1-a7a658d507cd.jpg)|Night|Noche|Juega Inmediatamente|
+|![azul](https://user-images.githubusercontent.com/41655764/81172586-1e88ba00-8f64-11ea-8ed3-30abd04ef556.jpg)|Piety|Piedad|No se pueden jugar cartas rojas en el jugador con Piedad|
+|![azul](https://user-images.githubusercontent.com/41655764/81172586-1e88ba00-8f64-11ea-8ed3-30abd04ef556.jpg)|Matchmaker|Casamentero|Cuando 2 Jugadores tienen el casamentero en frente de ellos, si uno de ellos muere, el otro también.|
+|![azul](https://user-images.githubusercontent.com/41655764/81172586-1e88ba00-8f64-11ea-8ed3-30abd04ef556.jpg)|Asylum|Asilo|El jugador que le sea dado Asilo no puede ser asesinado durante la Noche|
+|![azul](https://user-images.githubusercontent.com/41655764/81172586-1e88ba00-8f64-11ea-8ed3-30abd04ef556.jpg)|Black Cat|Gato Negro|Cuando un jugador saque una Conspiración, revela una carta de Juicio del jugador al que pertenezca el gato negro|
+|![verde](https://user-images.githubusercontent.com/41655764/81172584-1e88ba00-8f64-11ea-8ef2-a292b1ef9c71.jpg)|Robbery|Robo|Toma todas las cartas de la mano de otro jugador y dáselas a otro jugador|
+|![verde](https://user-images.githubusercontent.com/41655764/81172584-1e88ba00-8f64-11ea-8ef2-a292b1ef9c71.jpg)|Curse|Maldición|Descarta una carta azul que esté en frente de otro jugador|
+|![verde](https://user-images.githubusercontent.com/41655764/81172584-1e88ba00-8f64-11ea-8ef2-a292b1ef9c71.jpg)|Stocks|Abastos|El jugador que tenga Abastos saltará su siguiente turno|
+|![verde](https://user-images.githubusercontent.com/41655764/81172584-1e88ba00-8f64-11ea-8ef2-a292b1ef9c71.jpg)|Arson|Incendio|Descarta todas las cartas de la mano de cualquier otro jugador|
+|![verde](https://user-images.githubusercontent.com/41655764/81172584-1e88ba00-8f64-11ea-8ef2-a292b1ef9c71.jpg)|Alibi|Coartada|Descarta hasta 3 acusaciones que se encuentren en frente de otro jugador|
+|![verde](https://user-images.githubusercontent.com/41655764/81172584-1e88ba00-8f64-11ea-8ef2-a292b1ef9c71.jpg)|Scapegoat|Chivo Expiatorio|Toma todas las cartas en frente de un jugador y colócalas en frente de otro jugador|
+|![red](https://user-images.githubusercontent.com/41655764/81172583-1e88ba00-8f64-11ea-822f-452afa5b7d01.jpg)|Witness|Testigo|7 acusaciones|
+|![red](https://user-images.githubusercontent.com/41655764/81172583-1e88ba00-8f64-11ea-822f-452afa5b7d01.jpg)|Evidence|Evidencia|3 Acusaciones|
+|![red](https://user-images.githubusercontent.com/41655764/81172583-1e88ba00-8f64-11ea-822f-452afa5b7d01.jpg)|Accusation|Acusación|1 Acusación|
