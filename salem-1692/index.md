@@ -1,6 +1,68 @@
 # Salem 1692
 
-## Cartas
+## Instrucciones básicas
+
+### Preparación inicial
+
+#### Cartas de juicio (*tryal*)
+
+- Separe las cartas de juicio según el número de jugadores:
+
+|Jugadores|4|5|6|7|8|9|10|11|12|
+|-|-|-|-|-|-|-|-|-|-|
+|No bruja|18|23|27|32|29|33|27|30|33|
+|Bruja|1|1|2|2|2|2|2|2|2|
+|Constable|1|1|1|1|1|1|1|1|1|
+
+- Reparte las cartas equitativamente
+- Guarda el resto de cartas
+
+#### Ayuntamiento/Personaje (Town Hall)
+
+- Reparte 1 carta a cada jugador boca arriba.
+- Guarda el resto de cartas
+
+**Si tienes 7 o menos jugadores puedes repartir 2 cartas de personajes a cada jugador y dejarlos elegir 1 de 2 personajes*
+
+#### Asesinatos (Kill)
+
+- Separa los personajes elegidos en el paso anterior
+- Guarda el resto de cartas
+
+#### Cartas Salem
+
+- Separa la carta de la **Noche** (Color Negro)
+- separa la carta de **Conspiración** (Color Negro)
+- Separa la carta del **Gato negro** (Color Azul)
+- Revuelve y reparte **3** cartas a cada jugador
+- Agrega la carta de **Conspiración** a las cartas restantes y revuelve nuevamente
+- Agrega la carta de la **Noche** hasta abajo y coloca boca abajo en el centro de la mesa
+- Coloca el **Gato Negro** boca arriba perpendicular al resto del mazo (para ser tomado más fácil)
+
+#### Token de martillo
+
+- Colocalo en el centro de la mesa, accesible para todos
+
+### Inicio del juego
+
+#### El amanecer
+
+    El amanecer solo ocurre al inicio del juego, un moderador o un locutor dirigirán esta sección con el siguiente guión
+
+```txt
+"Todos los jugadores cierren los ojos."
+"Brujas, por favor abran los ojos y señalen a aquel jugador que recibirá el Gato Negro, puedes apuntarte a ti"
+(Contar hasta 10 en voz alta)
+"Brujas por favor cierren sus ojos"
+"Todos por favor abran sus ojos"
+```
+
+## Aclaraciones
+
+- Si tienes o en algún momento tuviste bruja eres del bando de las brujas
+- Si pierdes la carta del constable ya no eres más el constable
+
+## Descripción de Cartas
 
 |  Color  |  Inglés  |  Español  |  Instrucción  |
 |  -  |  -  |  -  |  -  |
