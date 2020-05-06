@@ -2,10 +2,6 @@
 
 ![coup](https://user-images.githubusercontent.com/41655764/81177767-cdc98f00-8f6c-11ea-86b7-d43c50a74aa2.jpg)
 
-![cross_16](https://user-images.githubusercontent.com/41655764/81177768-cdc98f00-8f6c-11ea-9f3f-225c2209cd67.png)
-![cross_24](https://user-images.githubusercontent.com/41655764/81177770-ce622580-8f6c-11ea-90f9-b2227a5cea96.png)
-![cross_36](https://user-images.githubusercontent.com/41655764/81177771-ce622580-8f6c-11ea-93c9-51664fd9b7c5.png)
-
 ## Acciones y descripción de cartas
 
 ### Juego
