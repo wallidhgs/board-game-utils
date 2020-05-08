@@ -204,7 +204,7 @@ Halfling|Hobbit|1 vez durante el turno, puedes vender 1 objeto al doble de preci
 >Todas las maldiciones tienen la palabra **Curse!** como título
 
 |Inglés|Español|Subtítulo|Descripción|
-|-|-|-|-|-|
+|-|-|-|-|
 |Curse|Maldición|Cambio de Raza|Si no tienes raza esta carta no tiene efecto. Si no, ve a la pila de descarte, desde el tope, la primera raza encontrada reemplaza tu raza(s) actual. Si no hay ninguna raza pierdes tus propias razas.|
 |Curse|Maldición|Pierde los zapatos que estés usando||
 |Curse|Maldición|Pierde un objeto grande|Elige un objeto grande para descartarlo.|
