@@ -10,40 +10,40 @@
 
 |Título Inglés|Título Español|Subtítulo|Descripción|Usos|
 |-|-|-|-|-|
-|Whine at the GM|Llora con el Amo del Calabozo|Sube 1 nivel|No puedes usarlo si eres el jugador de nivel más alto|1|
-|Cotion of Ponfusion|Coción de Ponfución||Juego durante cualquier combate, +3 a cualquier lado.|1|
-|Transferral Potion|Poción de Transferencia||Juega durante cualquier combate. Cualquier otro jugador que tu elijas pelea contra el monstruo, puede pedir ayuda y sube de nivel si gana. Luego el jugador original continua su turno y puedesaquear el cuarto independientemente si ganó o perdió.|1|
-|Magic Lamp|Lampara Mágica||Puedes usar la Lámpara Mágica solo en tu turno. Invoca un genio que desaparece el monstruo aún si ya terminaste de huir y estaba a punto de atraparte. Si sólo había 1 monstruo puedes tomar su tesoro sin ganar nivel.|1|
-|Freezing Explosive Potion|Poción Explosiva Congeladora||Juega durante cualquier combate, +3 a cualquier lado.|1|
-|Magic Missile|Misíl Mágico||Juega durante cualquier combate. +5 a cualquier lado.|1|
-|Steal a Level|Roba 1 Nivel||Selecciona 1 jugador. Tu subes 1 nivel y el baja 1.|1|
-|Hireling|Ayudante|Bono +1|Te permite cargar 1 objeto que no podrías cargar de otra forma. Si pierdes tu ayudante el objeto, pierdes el objeto. Puedes descartar al ayudante por un escape automático de cualquier monstruo. Manten esta carta frente a ti junto a tus tesoros.|∞|
-|Flask of Glue|Frasco de Pegamento||Juega cuando alguien escape exitosamente de un combate por cualquier razón. Deben volver a tirar para escapar (aunque el escape haya sido automático).|1|
-|Friendship potion|Poción de Amistad||Juega durante cualquier combate. Descarta todos los monstruos en combate. No se gana tesoro pero el jugador puede buscar en el cuarto.|1|
-|Loaded Die|Dado Cargado||Juega después de hayas tirado el dado por cualquier razón. Gira el dado a cualquier número que elijas. Esa es tu nueva tirada.|1|
-|Pollymorph Potion|Poción Polimorfa||Jueda durante cualquier combate. Cambia cualquier monstruo a un perico que vuela dejando el tesoro detrás.|1|
-|Mutilate the Bodies|Mutila los Cadaveres|Sube 1 Nivel|Esta carta puede ser jugada solamente después de un combate, pero no tiene que ser tu combate.|1|
-|Wishing Ring|Anillo de los deseos||Cancela cualquier maldición en cualquier momento.|1|
-|Flaming Poision Potion|Poción de Veneno Flamante||Juega durante cualquier combate. +3 a cualquier lado.|1|
-|Kill The Hireling|Mata al Ayudante|Sube 1 Nivel|Puedes usar esta carta solo si un *Ayudante* está en juego (No importa quien tenga al ayudante). Descarta al Ayudante.|1|
-|Wand of Dowsing|Vara radiestésica||Ve a la pila de descarte para encontrar 1 carta que quieras. toma esa carta y descarta esta.|1|
-|Invisibility Potion|Poción de Invisibilidad||Jugable cuando tu huida falle. Escapas automaticamente.|1|
-|Potion of Idiotic Bravery|Poción de Valentía Idiótica||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Nasty-Tasting Sports Drink|Bebida Deportiva Asquerosa||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Hoard!|Tesoro||Saca 3 cartas de tesoro inmediatamente. Si sacas esta carta boca arriba, muéstralas antes de agregarlas a tu mano, si nio agrégalas sin mostrarlas.|1|
-|Doppleganger|Imitador||Invoca a un doble tuyo para pelear a tu lado, por lo que tu fuerza de combate se duplica. Puedes usar Imitador solo cuando seas el único jugador en combate.|1|
-|Instant Wall|Pared Instantanea||Permite un escape automático para 1 o 2 jugadores en cualquier pelea.|1|
-|Yuppie Water|Agua Costosa||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Sleep Potion|Poción de Sueño||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Potion of Halitosis|Poción de Halitosis||Juega durante cualquier combate. +2 a cualquier lado. Mata de manera instantanea a la **Nariz Flotante**.|1|
-|Pretty Ballons|Globos Bonitos||Juega durante cualquier combate. +5 a cualquier lado.|1|
-|Electric Radioactive Acid Potion|Poción de Ácido radioactivo||Juega durante cualquier combate. +5 a cualquier lado.|1|
-|Invoke Obscure Rules|Invoca Reglas Oscuras||Sube 1 Nivel|1|
-|Potion of General Studliness|Poción de Estudioso||Sube 1 Nivel|1|
 |1,000 Gold Pieces|1,000 Piezas de Oro||Sube 1 Nivel|1|
-|Convenient Addition Error|Error Conveniente de Suma||Sube 1 Nivel|1|
 |Boil an Anthill|Hierve un Hormiguero||Sube 1 Nivel|1|
 |Bribe M with Food|Soborna al Amo del Calabozo con Comida||Sube 1 Nivel|1|
+|Convenient Addition Error|Error Conveniente de Suma||Sube 1 Nivel|1|
+|Cotion of Ponfusion|Coción de Ponfución||Juego durante cualquier combate, +3 a cualquier lado.|1|
+|Doppleganger|Imitador||Invoca a un doble tuyo para pelear a tu lado, por lo que tu fuerza de combate se duplica. Puedes usar Imitador solo cuando seas el único jugador en combate.|1|
+|Electric Radioactive Acid Potion|Poción de Ácido radioactivo||Juega durante cualquier combate. +5 a cualquier lado.|1|
+|Flaming Poision Potion|Poción de Veneno Flamante||Juega durante cualquier combate. +3 a cualquier lado.|1|
+|Flask of Glue|Frasco de Pegamento||Juega cuando alguien escape exitosamente de un combate por cualquier razón. Deben volver a tirar para escapar (aunque el escape haya sido automático).|1|
+|Freezing Explosive Potion|Poción Explosiva Congeladora||Juega durante cualquier combate, +3 a cualquier lado.|1|
+|Friendship potion|Poción de Amistad||Juega durante cualquier combate. Descarta todos los monstruos en combate. No se gana tesoro pero el jugador puede buscar en el cuarto.|1|
+|Hireling|Ayudante|Bono +1|Te permite cargar 1 objeto que no podrías cargar de otra forma. Si pierdes tu ayudante el objeto, pierdes el objeto. Puedes descartar al ayudante por un escape automático de cualquier monstruo. Manten esta carta frente a ti junto a tus tesoros.|∞|
+|Hoard!|Tesoro||Saca 3 cartas de tesoro inmediatamente. Si sacas esta carta boca arriba, muéstralas antes de agregarlas a tu mano, si nio agrégalas sin mostrarlas.|1|
+|Instant Wall|Pared Instantanea||Permite un escape automático para 1 o 2 jugadores en cualquier pelea.|1|
+|Invisibility Potion|Poción de Invisibilidad||Jugable cuando tu huida falle. Escapas automaticamente.|1|
+|Invoke Obscure Rules|Invoca Reglas Oscuras||Sube 1 Nivel|1|
+|Kill The Hireling|Mata al Ayudante|Sube 1 Nivel|Puedes usar esta carta solo si un *Ayudante* está en juego (No importa quien tenga al ayudante). Descarta al Ayudante.|1|
+|Loaded Die|Dado Cargado||Juega después de hayas tirado el dado por cualquier razón. Gira el dado a cualquier número que elijas. Esa es tu nueva tirada.|1|
+|Magic Lamp|Lampara Mágica||Puedes usar la Lámpara Mágica solo en tu turno. Invoca un genio que desaparece el monstruo aún si ya terminaste de huir y estaba a punto de atraparte. Si sólo había 1 monstruo puedes tomar su tesoro sin ganar nivel.|1|
+|Magic Missile|Misíl Mágico||Juega durante cualquier combate. +5 a cualquier lado.|1|
+|Mutilate the Bodies|Mutila los Cadaveres|Sube 1 Nivel|Esta carta puede ser jugada solamente después de un combate, pero no tiene que ser tu combate.|1|
+|Nasty-Tasting Sports Drink|Bebida Deportiva Asquerosa||Juega durante cualquier combate. +2 a cualquier lado.|1|
+|Pollymorph Potion|Poción Polimorfa||Jueda durante cualquier combate. Cambia cualquier monstruo a un perico que vuela dejando el tesoro detrás.|1|
+|Potion of General Studliness|Poción de Estudioso||Sube 1 Nivel|1|
+|Potion of Halitosis|Poción de Halitosis||Juega durante cualquier combate. +2 a cualquier lado. Mata de manera instantanea a la **Nariz Flotante**.|1|
+|Potion of Idiotic Bravery|Poción de Valentía Idiótica||Juega durante cualquier combate. +2 a cualquier lado.|1|
+|Pretty Ballons|Globos Bonitos||Juega durante cualquier combate. +5 a cualquier lado.|1|
+|Sleep Potion|Poción de Sueño||Juega durante cualquier combate. +2 a cualquier lado.|1|
+|Steal a Level|Roba 1 Nivel||Selecciona 1 jugador. Tu subes 1 nivel y el baja 1.|1|
+|Transferral Potion|Poción de Transferencia||Juega durante cualquier combate. Cualquier otro jugador que tu elijas pelea contra el monstruo, puede pedir ayuda y sube de nivel si gana. Luego el jugador original continua su turno y puedesaquear el cuarto independientemente si ganó o perdió.|1|
+|Wand of Dowsing|Vara radiestésica||Ve a la pila de descarte para encontrar 1 carta que quieras. toma esa carta y descarta esta.|1|
+|Wishing Ring|Anillo de los deseos||Cancela cualquier maldición en cualquier momento.|1|
+|Whine at the GM|Llora con el Amo del Calabozo|Sube 1 nivel|No puedes usarlo si eres el jugador de nivel más alto|1|
+|Yuppie Water|Agua Costosa||Juega durante cualquier combate. +2 a cualquier lado.|1|
 
 #### Equipo
 
@@ -142,10 +142,10 @@ Halfling|Hobbit|1 vez durante el turno, puedes vender 1 objeto al doble de preci
 
 |Inglés|Español|Nivel|Descripción|Maleficio|
 |-|-|-|-|-|
-|Potted Plant|Planta en Maceta|1|Elfos obtienen un tesoro extra al derrotarla.|Ninguno, escapa automaticamente.|
+|Crabs|Cangrejos|1|No puedes huir.|Descarta tu armadura y todos los objetos por debajo de la cintura.|
 |Drooling Slime|Baba Babeante|1|Más 4 contra elfos.|Descarta los zapatos que estés usando. Pierde 1 nivel si no traes zapatos.|
 |Lame Goblin|Duende Cojo|1|Más 1 Al huir.|Pierde 1 nivel|
-|Crabs|Cangrejos|1|No puedes huir.|Descarta tu armadura y todos los objetos por debajo de la cintura.|
+|Potted Plant|Planta en Maceta|1|Elfos obtienen un tesoro extra al derrotarla.|Ninguno, escapa automaticamente.|
 |Maul Rat|Rata con Mazo|1|Más 3 contra clérigos.|Pierdes 1 nivel.|
 |Mr. Bones|Sr. Huesos|2 ![undead](https://user-images.githubusercontent.com/41655764/81359323-788d9a80-909e-11ea-997f-87b977b7b2e6.png)|Si debes huir, pierdes 1 incluso si escapas.|Pierde 2 niveles.|
 |Flying Frogs|Ranas Voladoras|2|-1 al huir.|Pierde 2 niveles.|
@@ -184,20 +184,20 @@ Halfling|Hobbit|1 vez durante el turno, puedes vender 1 objeto al doble de preci
 
 |Inglés|Español|Subtítulo|Descripción|
 |-|-|-|-|
-|Illusion|Illusion||Juega esta carta durante Cualquier Combate. Descarta 1 monstruo cualquiera en este combate, junto con cualquier carta jugada para modificarlo y reemplázalo con un monstruo de tu mano.|
-|Enraged|Enfurecido|+5 Al Monstruo|Juega durante el combate. Si el monstruo es derrotado, se obtiene 1 tesoro extra.|
-|Help Me Out Here!|Ayúdame!||Juega esta carta cuando Tu estés en combate. Tome 1 objeto de otro jugador, al momento de tomarlo debe hacer la diferencia entre ganar y perder el combate. Tu puedes descartar algo de lo tuyo antes de tomarlo si deseas.|
-|Wandering Monster|Monstruo Errante||Juega esta carta con 1 monstruo de tu mano cuando alguien (Tú incluido) se encuentre en combate. Tu monstruo se une al combate en curso- agrega su fuerza de combate. Si el personaje(s) huye resuelve la huida en intentos separados, el orden lo escoge la víctima.|
-|Super Munchkin|Super Munchkin||Tu puedes tener 2 cartas de clases, y tener todas las ventajas y desventajas de cada 1. O 1 clase sin desventajas. Pierde esta carta cuando pierdas todas tus clase(s).|
-|Baby|Bebé|-5 Al Monstruo|Juega esta carta durante el combate. Si el monstruo es derrotado, se obtiene 1 tesoro menos (mínimo 1)|
-|Mate|Amigo||Otro monstruo aparece, con el mismo Nivel y los mismos modificadores. Si el monstruo es derrotado, se obtienen el doble de tesoros y el doble de niveles.|
-|Intelligent|Inteligente|+5 Al Monstruo|Juega durante el combate. Si el monstruo es derrotado, se obtiene 1 tesoro extra.|
-|Cheat!|Truco!||Juega esta carta con 1 objeto en juego o de tu mano. Este objeto ahora es posible usarlo sin ninguna regla de eqiupamiento. Descarta esta carta cuando pierdas el objeto adjunto.|
-|Out To Lunch|Salí a Comer||El monstruo en este cuarto está en un descanso. Juega esta carta en cualquier combate. El jugador que enfrente al monstruo ignora a los monstruos y obtiene 2 tesoros inmediatamente.|
-|Divine Intervention|Intervenciíon Divina||Se debe de jugar tan pronto se obtenga. Todos los clérigos suben 1 nivel inmediatamente, pudiendo ser este el nivel ganador. Si ganas con esta carta está permitido burlarte de los otros jugadores.|
-|Half-Breed|Mestizo||Tu puedes tener 2 cartas de raza, y tener todas las ventajas y desventajas de cada 1. O 1 raza sin desventajas. Pierde esta carta cuando pierdas todas tus raza(s).|
 |Ancient|Ancestral|+10 Al monstruo||
+|Baby|Bebé|-5 Al Monstruo|Juega esta carta durante el combate. Si el monstruo es derrotado, se obtiene 1 tesoro menos (mínimo 1)|
+|Cheat!|Truco!||Juega esta carta con 1 objeto en juego o de tu mano. Este objeto ahora es posible usarlo sin ninguna regla de eqiupamiento. Descarta esta carta cuando pierdas el objeto adjunto.|
+|Divine Intervention|Intervenciíon Divina||Se debe de jugar tan pronto se obtenga. Todos los clérigos suben 1 nivel inmediatamente, pudiendo ser este el nivel ganador. Si ganas con esta carta está permitido burlarte de los otros jugadores.|
+|Enraged|Enfurecido|+5 Al Monstruo|Juega durante el combate. Si el monstruo es derrotado, se obtiene 1 tesoro extra.|
+|Half-Breed|Mestizo||Tu puedes tener 2 cartas de raza, y tener todas las ventajas y desventajas de cada 1. O 1 raza sin desventajas. Pierde esta carta cuando pierdas todas tus raza(s).|
+|Help Me Out Here!|Ayúdame!||Juega esta carta cuando Tu estés en combate. Tome 1 objeto de otro jugador, al momento de tomarlo debe hacer la diferencia entre ganar y perder el combate. Tu puedes descartar algo de lo tuyo antes de tomarlo si deseas.|
 |Humoungous|Enorme|+10 Al monstruo||
+|Illusion|Illusion||Juega esta carta durante Cualquier Combate. Descarta 1 monstruo cualquiera en este combate, junto con cualquier carta jugada para modificarlo y reemplázalo con un monstruo de tu mano.|
+|Intelligent|Inteligente|+5 Al Monstruo|Juega durante el combate. Si el monstruo es derrotado, se obtiene 1 tesoro extra.|
+|Mate|Amigo||Otro monstruo aparece, con el mismo Nivel y los mismos modificadores. Si el monstruo es derrotado, se obtienen el doble de tesoros y el doble de niveles.|
+|Super Munchkin|Super Munchkin||Tu puedes tener 2 cartas de clases, y tener todas las ventajas y desventajas de cada 1. O 1 clase sin desventajas. Pierde esta carta cuando pierdas todas tus clase(s).|
+|Out To Lunch|Salí a Comer||El monstruo en este cuarto está en un descanso. Juega esta carta en cualquier combate. El jugador que enfrente al monstruo ignora a los monstruos y obtiene 2 tesoros inmediatamente.|
+|Wandering Monster|Monstruo Errante||Juega esta carta con 1 monstruo de tu mano cuando alguien (Tú incluido) se encuentre en combate. Tu monstruo se une al combate en curso- agrega su fuerza de combate. Si el personaje(s) huye resuelve la huida en intentos separados, el orden lo escoge la víctima.|
 
 #### Maldiciones
 
@@ -205,18 +205,18 @@ Halfling|Hobbit|1 vez durante el turno, puedes vender 1 objeto al doble de preci
 
 |Inglés|Español|Subtítulo|Descripción|
 |-|-|-|-|
-|Curse|Maldición|Cambio de Raza|Si no tienes raza esta carta no tiene efecto. Si no, ve a la pila de descarte, desde el tope, la primera raza encontrada reemplaza tu raza(s) actual. Si no hay ninguna raza pierdes tus propias razas.|
-|Curse|Maldición|Pierde los zapatos que estés usando||
-|Curse|Maldición|Pierde un objeto grande|Elige un objeto grande para descartarlo.|
-|Curse|Maldición|Pierde los cascos que estés usando||
-|Curse|Maldición|Pollo en tu Cabeza|-1 a todas tus tiradas del dado. Cualquier maldición o Maleficio que remueva tu casco se lleva el pollo también.|
-|Curse|Maldición|Cambio de Clase|Si no tienes clase esta carta no tiene efecto. Si no, ve a la pila de descarte, desde el tope, la primera clase encontrada reemplaza tu clase(s) actual. Si no hay ninguna clase pierdes tus propias clases.|
-|Curse|Maldición|Pierde la armadura que estés usando||
-|Curse|Maldición|Maldición Verdaderamente desagradable|Pierde el objeto que te de el beneficio más grande.|
-|Curse|Maldición|Cambio de Sexo|-5 a tu siguiente combate por distracción. Después de eso, no hay penalización adicional. Sin embargo el cambio es permanente.|
-|Curse|Maldición|Impuestos entrante|Descarta 1 objeto de tu elección. Todos los demás jugadores deben descartar 1 o más objetos hasta completar el valor de tu objeto descartado. Si no tienen suficiente objetos, deben descartar todos sus objetos y perder 1 nivel.|
-|Curse|Maldición|Pierde un objeto pequeño|Elige un objeto pequeño para descartar. Cualquier objeto no designado como grande (Big) es pequeño|
-|Curse|Maldición|Pierde 2 Cartas|El primer jugador a la izquierda de la víctima saca 1 cartas de la mano de la víctima y se la queda, luego el jugador a la derecha hace lo mismo.|
-|Curse|Maldición|Pato de la perdición|Pierde 2 niveles.|
-|Curse|Maldición|Pierde 1 nivel||
-|Curse|Maldición|Espejo Maligno|Fuiste maldecido, en tu siguiente pelea, no obtendrás ningún beneficio de objetos más que tu armadura. Un anillo de deseos, usado antes de la siguiente pelea levanta la maldición.|
+|Change Class|Cambio de Clase|Si no tienes clase esta carta no tiene efecto. Si no, ve a la pila de descarte, desde el tope, la primera clase encontrada reemplaza tu clase(s) actual. Si no hay ninguna clase pierdes tus propias clases.|
+|Change Race|Cambio de Raza|Si no tienes raza esta carta no tiene efecto. Si no, ve a la pila de descarte, desde el tope, la primera raza encontrada reemplaza tu raza(s) actual. Si no hay ninguna raza pierdes tus propias razas.|
+|Change Sex|Cambio de Sexo|-5 a tu siguiente combate por distracción. Después de eso, no hay penalización adicional. Sin embargo el cambio es permanente.|
+|Chicken On your Head|Pollo en tu Cabeza|-1 a todas tus tiradas del dado. Cualquier maldición o Maleficio que remueva tu casco se lleva el pollo también.|
+|Duck of Doom|Pato de la perdición|Pierde 2 niveles.|
+|Income Tax|Impuestos|Descarta 1 objeto de tu elección. Todos los demás jugadores deben descartar 1 o más objetos hasta completar el valor de tu objeto descartado. Si no tienen suficiente objetos, deben descartar todos sus objetos y perder 1 nivel.|
+|Lose 2 Cards|Pierde 2 Cartas|El primer jugador a la izquierda de la víctima saca 1 cartas de la mano de la víctima y se la queda, luego el jugador a la derecha hace lo mismo.|
+|Lose a Big Item|Pierde un objeto grande|Elige un objeto grande para descartarlo.|
+|Lose a Level|Pierde 1 nivel||
+|Lose a Small Item|Pierde un objeto pequeño|Elige un objeto pequeño para descartar. Cualquier objeto no designado como grande (Big) es pequeño|
+|Lose The Armor You are Wearing|Pierde la armadura que estés usando||
+|Lose The footgear you are wearing|Pierde los zapatos que estés usando||
+|Lose The headgear you are wearing|Pierde los cascos que estés usando||
+|Truly Obnoxious Curse|Maldición Verdaderamente desagradable|Pierde el objeto que te de el beneficio más grande.|
+|Malign Mirror|Espejo Maligno|Fuiste maldecido, en tu siguiente pelea, no obtendrás ningún beneficio de objetos más que tu armadura. Un anillo de deseos, usado antes de la siguiente pelea levanta la maldición.|
