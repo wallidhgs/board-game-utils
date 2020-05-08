@@ -8,42 +8,44 @@
 
 #### Hechizos de Tesoros
 
-|Título Inglés|Título Español|Subtítulo|Descripción|Usos|
-|-|-|-|-|-|
-|1,000 Gold Pieces|1,000 Piezas de Oro||Sube 1 Nivel|1|
-|Boil an Anthill|Hierve un Hormiguero||Sube 1 Nivel|1|
-|Bribe M with Food|Soborna al Amo del Calabozo con Comida||Sube 1 Nivel|1|
-|Convenient Addition Error|Error Conveniente de Suma||Sube 1 Nivel|1|
-|Cotion of Ponfusion|Coción de Ponfución||Juego durante cualquier combate, +3 a cualquier lado.|1|
-|Doppleganger|Imitador||Invoca a un doble tuyo para pelear a tu lado, por lo que tu fuerza de combate se duplica. Puedes usar Imitador solo cuando seas el único jugador en combate.|1|
-|Electric Radioactive Acid Potion|Poción de Ácido radioactivo||Juega durante cualquier combate. +5 a cualquier lado.|1|
-|Flaming Poision Potion|Poción de Veneno Flamante||Juega durante cualquier combate. +3 a cualquier lado.|1|
-|Flask of Glue|Frasco de Pegamento||Juega cuando alguien escape exitosamente de un combate por cualquier razón. Deben volver a tirar para escapar (aunque el escape haya sido automático).|1|
-|Freezing Explosive Potion|Poción Explosiva Congeladora||Juega durante cualquier combate, +3 a cualquier lado.|1|
-|Friendship potion|Poción de Amistad||Juega durante cualquier combate. Descarta todos los monstruos en combate. No se gana tesoro pero el jugador puede buscar en el cuarto.|1|
-|Hireling|Ayudante|Bono +1|Te permite cargar 1 objeto que no podrías cargar de otra forma. Si pierdes tu ayudante el objeto, pierdes el objeto. Puedes descartar al ayudante por un escape automático de cualquier monstruo. Manten esta carta frente a ti junto a tus tesoros.|∞|
-|Hoard!|Tesoro||Saca 3 cartas de tesoro inmediatamente. Si sacas esta carta boca arriba, muéstralas antes de agregarlas a tu mano, si nio agrégalas sin mostrarlas.|1|
-|Instant Wall|Pared Instantanea||Permite un escape automático para 1 o 2 jugadores en cualquier pelea.|1|
-|Invisibility Potion|Poción de Invisibilidad||Jugable cuando tu huida falle. Escapas automaticamente.|1|
-|Invoke Obscure Rules|Invoca Reglas Oscuras||Sube 1 Nivel|1|
-|Kill The Hireling|Mata al Ayudante|Sube 1 Nivel|Puedes usar esta carta solo si un *Ayudante* está en juego (No importa quien tenga al ayudante). Descarta al Ayudante.|1|
-|Loaded Die|Dado Cargado||Juega después de hayas tirado el dado por cualquier razón. Gira el dado a cualquier número que elijas. Esa es tu nueva tirada.|1|
-|Magic Lamp|Lampara Mágica||Puedes usar la Lámpara Mágica solo en tu turno. Invoca un genio que desaparece el monstruo aún si ya terminaste de huir y estaba a punto de atraparte. Si sólo había 1 monstruo puedes tomar su tesoro sin ganar nivel.|1|
-|Magic Missile|Misíl Mágico||Juega durante cualquier combate. +5 a cualquier lado.|1|
-|Mutilate the Bodies|Mutila los Cadaveres|Sube 1 Nivel|Esta carta puede ser jugada solamente después de un combate, pero no tiene que ser tu combate.|1|
-|Nasty-Tasting Sports Drink|Bebida Deportiva Asquerosa||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Pollymorph Potion|Poción Polimorfa||Jueda durante cualquier combate. Cambia cualquier monstruo a un perico que vuela dejando el tesoro detrás.|1|
-|Potion of General Studliness|Poción de Estudioso||Sube 1 Nivel|1|
-|Potion of Halitosis|Poción de Halitosis||Juega durante cualquier combate. +2 a cualquier lado. Mata de manera instantanea a la **Nariz Flotante**.|1|
-|Potion of Idiotic Bravery|Poción de Valentía Idiótica||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Pretty Ballons|Globos Bonitos||Juega durante cualquier combate. +5 a cualquier lado.|1|
-|Sleep Potion|Poción de Sueño||Juega durante cualquier combate. +2 a cualquier lado.|1|
-|Steal a Level|Roba 1 Nivel||Selecciona 1 jugador. Tu subes 1 nivel y el baja 1.|1|
-|Transferral Potion|Poción de Transferencia||Juega durante cualquier combate. Cualquier otro jugador que tu elijas pelea contra el monstruo, puede pedir ayuda y sube de nivel si gana. Luego el jugador original continua su turno y puedesaquear el cuarto independientemente si ganó o perdió.|1|
-|Wand of Dowsing|Vara radiestésica||Ve a la pila de descarte para encontrar 1 carta que quieras. toma esa carta y descarta esta.|1|
-|Wishing Ring|Anillo de los deseos||Cancela cualquier maldición en cualquier momento.|1|
-|Whine at the GM|Llora con el Amo del Calabozo|Sube 1 nivel|No puedes usarlo si eres el jugador de nivel más alto|1|
-|Yuppie Water|Agua Costosa||Juega durante cualquier combate. +2 a cualquier lado.|1|
+> Todos los hechizos de tesoros puede utilizarse 1 sola vez, excepto "Ayudante", que permanece equipado al objeto
+
+|Título Inglés|Título Español|Subtítulo|Descripción|
+|-|-|-|-|
+|1,000 Gold Pieces|1,000 Piezas de Oro||Sube 1 Nivel|
+|Boil an Anthill|Hierve un Hormiguero||Sube 1 Nivel|
+|Bribe M with Food|Soborna al Amo del Calabozo con Comida||Sube 1 Nivel|
+|Convenient Addition Error|Error Conveniente de Suma||Sube 1 Nivel|
+|Cotion of Ponfusion|Coción de Ponfución||Juego durante cualquier combate, +3 a cualquier lado.|
+|Doppleganger|Imitador||Invoca a un doble tuyo para pelear a tu lado, por lo que tu fuerza de combate se duplica. Puedes usar Imitador solo cuando seas el único jugador en combate.|
+|Electric Radioactive Acid Potion|Poción de Ácido radioactivo||Juega durante cualquier combate. +5 a cualquier lado.|
+|Flaming Poision Potion|Poción de Veneno Flamante||Juega durante cualquier combate. +3 a cualquier lado.|
+|Flask of Glue|Frasco de Pegamento||Juega cuando alguien escape exitosamente de un combate por cualquier razón. Deben volver a tirar para escapar (aunque el escape haya sido automático).|
+|Freezing Explosive Potion|Poción Explosiva Congeladora||Juega durante cualquier combate, +3 a cualquier lado.|
+|Friendship potion|Poción de Amistad||Juega durante cualquier combate. Descarta todos los monstruos en combate. No se gana tesoro pero el jugador puede buscar en el cuarto.|
+|Hireling|Ayudante|Bono +1|Te permite cargar 1 objeto que no podrías cargar de otra forma. Si pierdes tu ayudante el objeto, pierdes el objeto. Puedes descartar al ayudante por un escape automático de cualquier monstruo. Manten esta carta frente a ti junto a tus tesoros.|
+|Hoard!|Tesoro||Saca 3 cartas de tesoro inmediatamente. Si sacas esta carta boca arriba, muéstralas antes de agregarlas a tu mano, si nio agrégalas sin mostrarlas.|
+|Instant Wall|Pared Instantanea||Permite un escape automático para 1 o 2 jugadores en cualquier pelea.|
+|Invisibility Potion|Poción de Invisibilidad||Jugable cuando tu huida falle. Escapas automaticamente.|
+|Invoke Obscure Rules|Invoca Reglas Oscuras||Sube 1 Nivel|
+|Kill The Hireling|Mata al Ayudante|Sube 1 Nivel|Puedes usar esta carta solo si un *Ayudante* está en juego (No importa quien tenga al ayudante). Descarta al Ayudante.|
+|Loaded Die|Dado Cargado||Juega después de hayas tirado el dado por cualquier razón. Gira el dado a cualquier número que elijas. Esa es tu nueva tirada.|
+|Magic Lamp|Lampara Mágica||Puedes usar la Lámpara Mágica solo en tu turno. Invoca un genio que desaparece el monstruo aún si ya terminaste de huir y estaba a punto de atraparte. Si sólo había 1 monstruo puedes tomar su tesoro sin ganar nivel.|
+|Magic Missile|Misíl Mágico||Juega durante cualquier combate. +5 a cualquier lado.|
+|Mutilate the Bodies|Mutila los Cadaveres|Sube 1 Nivel|Esta carta puede ser jugada solamente después de un combate, pero no tiene que ser tu combate.|
+|Nasty-Tasting Sports Drink|Bebida Deportiva Asquerosa||Juega durante cualquier combate. +2 a cualquier lado.|
+|Pollymorph Potion|Poción Polimorfa||Jueda durante cualquier combate. Cambia cualquier monstruo a un perico que vuela dejando el tesoro detrás.|
+|Potion of General Studliness|Poción de Estudioso||Sube 1 Nivel|
+|Potion of Halitosis|Poción de Halitosis||Juega durante cualquier combate. +2 a cualquier lado. Mata de manera instantanea a la **Nariz Flotante**.|
+|Potion of Idiotic Bravery|Poción de Valentía Idiótica||Juega durante cualquier combate. +2 a cualquier lado.|
+|Pretty Ballons|Globos Bonitos||Juega durante cualquier combate. +5 a cualquier lado.|
+|Sleep Potion|Poción de Sueño||Juega durante cualquier combate. +2 a cualquier lado.|
+|Steal a Level|Roba 1 Nivel||Selecciona 1 jugador. Tu subes 1 nivel y el baja 1.|
+|Transferral Potion|Poción de Transferencia||Juega durante cualquier combate. Cualquier otro jugador que tu elijas pelea contra el monstruo, puede pedir ayuda y sube de nivel si gana. Luego el jugador original continua su turno y puedesaquear el cuarto independientemente si ganó o perdió.|
+|Wand of Dowsing|Vara radiestésica||Ve a la pila de descarte para encontrar 1 carta que quieras. toma esa carta y descarta esta.|
+|Wishing Ring|Anillo de los deseos||Cancela cualquier maldición en cualquier momento.|
+|Whine at the GM|Llora con el Amo del Calabozo|Sube 1 nivel|No puedes usarlo si eres el jugador de nivel más alto|
+|Yuppie Water|Agua Costosa||Juega durante cualquier combate. +2 a cualquier lado.|
 
 #### Equipo
 
